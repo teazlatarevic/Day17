@@ -13,5 +13,5 @@ function main(myCar) {
   // Only change code above this line
 }
 
-console.log(main(MY_CAR));
+console.log(main(MY_CAR ));
 module.exports = main;
